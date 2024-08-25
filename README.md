@@ -15,7 +15,7 @@ I'm currently a 3nd-year ISE (Information Science and Engineering) student at BM
 ### [Project 1: Hotel Management System](https://github.com/surajnreddy02/Hotel-Management-System.git)
 A comprehensive system for managing hotel operations, including room bookings, guest check-ins and check-outs, and billing. Built using JavaScript, React, Tailwind, and a MongoDB database, this project aims to streamline hotel management processes with an easy-to-use interface and robust backend.
 ## Contact
-- **Email:** seerviu690@gmail.com
+- **Email:** surajnreddy02pro@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/surajnreddy02)
 - **Twitter:** [Your Twitter Handle](https://x.com/SurajNReddy02)
 ## Fun Fact
