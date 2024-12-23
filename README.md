@@ -4,7 +4,7 @@ I'm currently a 3nd-year ISE (Information Science and Engineering) student at BM
 ## Education
 - **BMS College of Engineering**
   - B.E. in Information Science and Engineering
-  - 2024 - Present
+  - 2022 - Present
   - Relevant Courses: Data Structures, Algorithms, Operating Systems, Database Management Systems, Web Development
 ## Skills
 - **Programming Languages:** Python, Java, C++, JavaScript
